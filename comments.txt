@@ -1,0 +1,4 @@
+Dear reviewer,
+during last week i exploring a lot of problems with my airlow connection( tast in up_for_retry status) due to some security updates on my corporate laptop.
+so I had to do my Project 6 in Notepad without any visibility of csv files, dag runs and etc...
+hope that my project work is ok..
